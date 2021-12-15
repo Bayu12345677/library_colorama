@@ -6,16 +6,24 @@
 cara menggunakan
 ```bash
 source colorama
-
 biru=$(bold biru)
 
-printf "%shalo bumi" ${biru}
+if curl -s google.com 2>/dev/null 1>/dev/null; then {
+      printf "%shalo bumi" ${biru}
+   }
+fi
 ```
 
 - `setup`
 ```
 apt install setterm
 make install
+```
+
+- `uninstall`
+
+```
+make uninstall
 ```
 
 - ### `me social media`
