@@ -18,4 +18,6 @@ apt install setterm
 make install
 ```
 
-### ['me youtube']
+- ### `me social media`
+
+- [![t](https://img.shields.io/static/v1?style=flat&logo=youtube&label=youtube&message=pejuang%20kentang&color=blue)](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
