@@ -14,6 +14,12 @@ if curl -s google.com 2>/dev/null 1>/dev/null; then {
 fi
 ```
 
+sesuaikan `patch` makefile di terminal anda
+
+```makefile
+PATCH = </patch/usr/bin/>
+```
+
 - `setup`
 ```
 apt install setterm
