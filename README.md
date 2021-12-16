@@ -37,12 +37,37 @@ make uninstall
 bold mode
 normal mode
 stop, break color
-
+```
 `how use`
-bold <warna> =! bold biru
+> bold <warna> =! bold biru
 
 - example
+```bash
+#!/bin/bash
+
+source colorama
+
+bold=$(bold merah)
+normal=$(normal biru)
+stop=$(stop)
+
+printf "%sHalo manusia %sbumi${stop}" ${bold} ${normal}
+
+: '
+color list :
+|_____________________|
+|        hitam        |
+|        merah        |
+|        hijau        |
+|        biru         |
+|        kuning       |
+|        pink         |
+|        cyan         |
+|        putih        |
+=======================
+'
 ```
+
 
 - ### `me social media`
 
