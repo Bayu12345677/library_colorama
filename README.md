@@ -21,15 +21,10 @@ PATCH = </patch/usr/bin/>
 ```
 
 - `setup`
-```
-make install
-```
+> make install
 
 - `uninstall`
-
-```
-make uninstall
-```
+> make uninstall
 
 
 - `*list*`
