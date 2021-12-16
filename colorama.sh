@@ -1,6 +1,13 @@
 #!/bin/bash
 
 
+#_____________________________#
+# author : polygon
+# rules  : dilarang merubah source
+# Team   : helixs-crew & cointer
+# bahasa : bourne again shell ; bash
+#______________________________#
+
 array=(
 """
 	</> kesalahan $1
