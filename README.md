@@ -22,7 +22,6 @@ PATCH = </patch/usr/bin/>
 
 - `setup`
 ```
-apt install setterm
 make install
 ```
 
