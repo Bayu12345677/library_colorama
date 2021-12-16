@@ -31,6 +31,19 @@ make install
 make uninstall
 ```
 
+
+- `*list*`
+```
+bold mode
+normal mode
+stop, break color
+
+`how use`
+bold <warna> =! bold biru
+
+- example
+```
+
 - ### `me social media`
 
 - [![t](https://img.shields.io/static/v1?style=flat&logo=youtube&label=youtube&message=pejuang%20kentang&color=blue)](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
